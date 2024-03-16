@@ -1,4 +1,4 @@
-# 🗺 PostgreSQL Flag Quiz Website   <img height="80px" align="center" src="https://github.com/shanibider/Nodejs-PostgreSQL-Secrets-Sharing/assets/72359805/19796f0e-199f-4ac4-a4e6-d68ea90dd354"> </h1>
+# 🗺 PostgreSQL Flag Quiz Website   <img height="80px" align="center" src="https://github.com/shanibider/Nodejs-PostgreSQL-Secrets-Sharing/assets/72359805/19796f0e-199f-4ac4-a4e6-d68ea90dd354"> 
 
 ### Check out the website [here](https://postgresql-flag-quiz.onrender.com/)!   
 
@@ -7,7 +7,7 @@ This is a web application that serves as a quiz game for identifying flags store
 
 
 <div align="center">
-<img height="250px" src="https://github.com/shanibider/PostgreSQL-Flag-Quiz-Website/assets/72359805/f29c7dd9-72fb-4919-9670-fb89464e38f0"></div>
+<img height="250px" src="https://github.com/shanibider/PostgreSQL-Flag-Quiz-Website/assets/72359805/5fd2dc1a-4e2c-424c-9b19-c1caf0bb00f9"></div>
 
 > [!NOTE]
 > Windows does not display flag images for emoji. Instead, Windows will show you the country code which looks this: "🇦🇫" :
